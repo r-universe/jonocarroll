@@ -7,11 +7,14 @@
 	path = ggeasy
 	url = https://github.com/jonocarroll/ggeasy
 	shallow = true
+	registered = true
 [submodule "ggghost"]
 	path = ggghost
 	url = https://github.com/jonocarroll/ggghost
 	shallow = true
+	registered = true
 [submodule "mathpix"]
 	path = mathpix
 	url = https://github.com/jonocarroll/mathpix
 	shallow = true
+	registered = true
