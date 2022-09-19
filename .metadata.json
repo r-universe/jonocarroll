@@ -6,9 +6,5 @@
   {
     "package": "ggghost",
     "oncran": true
-  },
-  {
-    "package": "mathpix",
-    "oncran": true
   }
 ]
