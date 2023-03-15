@@ -1,14 +1,14 @@
 [
   {
-    "package": "mathpix",
-    "oncran": true
-  },
-  {
     "package": "ggeasy",
     "oncran": true
   },
   {
     "package": "ggghost",
+    "oncran": true
+  },
+  {
+    "package": "mathpix",
     "oncran": true
   }
 ]
