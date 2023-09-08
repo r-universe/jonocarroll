@@ -8,6 +8,3 @@
 [submodule "ggghost"]
 	path = ggghost
 	url = https://github.com/jonocarroll/ggghost
-[submodule "mathpix"]
-	path = mathpix
-	url = https://github.com/jonocarroll/mathpix
